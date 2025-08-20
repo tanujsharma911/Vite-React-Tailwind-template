@@ -12,3 +12,6 @@ It contains Vite React + Tailwind CSS files for saving time on setting up tailwi
 
 ### Install react hook form
 `pnpm add react-hook-form`
+
+### Change remote origin
+`git remote set-url origin <URL>`
